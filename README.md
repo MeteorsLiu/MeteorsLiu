@@ -8,4 +8,4 @@ Gopher & PHPer & React guy & Network engineer.
 
 - 🌱 I’m currently learning Rust/Zig
 - 🤔 I’m searching for jobs.
-- 📧 Reach me: [open a issue](https://github.com/MeteorsLiu/MeteorsLiu/issues)
+- 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues)
