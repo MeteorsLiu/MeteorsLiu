@@ -9,3 +9,4 @@ Gopher & PHPer & React guy & Network engineer.
 - 🌱 I’m currently learning Rust/Zig
 - 🤔 I’m searching for jobs.
 - 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues)
+- React是工作, Golang是生活
