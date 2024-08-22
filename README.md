@@ -7,6 +7,6 @@
 Gopher & PHPer & React guy & Network engineer.
 
 - 🌱 I’m currently learning Rust/Zig
-- 🤔 I’m searching for jobs.
+- 🤔 I’m working in Shanghai, China.
 - 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues)
 - Golang是生活
