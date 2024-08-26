@@ -7,6 +7,7 @@
 Gopher & PHPer & React guy & Network engineer.
 
 - 🌱 I’m currently learning Rust/Zig
-- 🤔 I’m working in Shanghai, China.
+- 🤔 I’m working as a Front-end developer in Shanghai, China.
 - 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues)
-- Golang是生活
+- Golang是生活，React是工作
+- 想要进大厂
