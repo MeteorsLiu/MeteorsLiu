@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**MeteorLiu/流星**, a junior student in Canton, China.
+**MeteorLiu/流星**, a developer in Shanghai, China.
 
 ![gopher](https://github.com/MeteorsLiu/MeteorsLiu/assets/17515813/7f904837-ca36-45e3-b58d-7a242d7f94e4)
 
