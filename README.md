@@ -9,5 +9,4 @@ Gopher & React guy & Network engineer.
 - 🌱 I’m currently learning Rust/Zig
 - 🤔 I’m working as a Full Stack developer in Shanghai, China.
 - 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues)
-- Golang是生活，React是工作
-- 想要进大厂
+- Golang for interest, React for jobs.
