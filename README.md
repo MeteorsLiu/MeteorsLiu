@@ -6,7 +6,7 @@
 
 Gopher & React boy & Network engineer.
 
-A geek of Go and network, but sadly they don't offer me a job :(
+～A geek of Go and network, but sadly they don't offer me a job :(～ Work for Go temporarily
 
 - 🌱 I’m currently learning Rust/Zig
 - 🤔 I’m working as a Full Stack developer in Shanghai, China.
