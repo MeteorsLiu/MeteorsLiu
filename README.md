@@ -12,7 +12,7 @@ Work for Go temporarily(Intern of Qiniu, much thanks)
 
 - 🌱 I’m currently learning Rust/Zig
 - 🤔 I’m working as a Full Stack developer in Shanghai, China.
-- 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues)
+- 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues) Or [email me](mailto:guohaolan@qiniu.com)
 - Golang for interest, React for jobs.
 
 
