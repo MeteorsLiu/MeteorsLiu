@@ -10,7 +10,7 @@ A geek of Go and network, hired by [Qiniu](https://www.qiniu.com/).
 
 - 🌱 I’m currently learning Rust/Zig
 - 🤔 I’m working as a Full Stack developer in Shanghai, China.
-- 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues) Or [email me](mailto:guohaolan@qiniu.com)
+- 📧 Reach me: [open an issue](https://github.com/MeteorsLiu/MeteorsLiu/issues) Or [email me](mailto:hello@liuxi.ng)
 - Golang for interest, React for jobs.
 
 
